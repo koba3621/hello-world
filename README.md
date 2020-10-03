@@ -1,2 +1,4 @@
 # hello-world
-for practice and my memo
+
+Hi Everyone!
+I study PHP! I will upload my PHP code.
